@@ -1,6 +1,6 @@
 # Predictive-maintenance-rul
 
-# Problem
+# Problemen
 # Daten 
 # Ansatz
 # Ergebnisse
